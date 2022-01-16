@@ -7,7 +7,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "tb_score")
+@Table(name = "tb_scores")
 public class Score implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
